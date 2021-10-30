@@ -4,13 +4,13 @@
 
  <!-- Trees -->
 
- <project path="device/10or/G" name="RahulPalXDA/android_device_10or_G.git" remote="github" revision="lineage-18.1" />
+ <project path="device/xiaomi/whyred" name="PixelExperience-Devices/device_xiaomi_whyred.git" remote="github" revision="eleven" />
 
- <project path="device/10or/msm8953-common" name="RahulPalXDA/android_device_10or_msm8953-common.git" remote="github" revision="lineage-18.1" />
+ <project path="device/xiaomi/sdm660-common" name="PixelExperience-Devices/device_xiaomi_sdm660-common.git" remote="github" revision="eleven" />
 
- <project path="vendor/10or" name="RahulPalXDA/android_vendor_10or.git" remote="github" revision="master" />
+ <project path="vendor/xiaomi/whyred" name="root2raj/vendor_xiaomi_whyred.git" remote="github" revision="eleven" />
 
- <project path="kernel/10or/G" name="10orDevs/android_kernel_10or_G-4.9.git" remote="github" revision="lineage-18.1" />
+ <project path="kernel/xiaomi/whyred" name="PixelExperience-Devices/kernel_xiaomi_whyred.git" remote="github" revision="eleven" />
 
  
 
